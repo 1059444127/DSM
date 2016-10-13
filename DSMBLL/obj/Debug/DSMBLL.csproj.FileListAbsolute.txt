@@ -1,0 +1,4 @@
+E:\WorkCode\DSMTest\DSM\DSMBLL\bin\Debug\DSMBLL.dll
+E:\WorkCode\DSMTest\DSM\DSMBLL\bin\Debug\DSMBLL.pdb
+E:\WorkCode\DSMTest\DSM\DSMBLL\obj\Debug\DSMBLL.dll
+E:\WorkCode\DSMTest\DSM\DSMBLL\obj\Debug\DSMBLL.pdb
