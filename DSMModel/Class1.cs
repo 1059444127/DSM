@@ -6,5 +6,6 @@ namespace DSMModel
 {
   public class Class1
   {
+
   }
 }
