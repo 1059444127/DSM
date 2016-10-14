@@ -2,3 +2,8 @@ E:\WorkCode\DSMTest\DSM\DSMDAL\bin\Debug\DSMDAL.dll
 E:\WorkCode\DSMTest\DSM\DSMDAL\bin\Debug\DSMDAL.pdb
 E:\WorkCode\DSMTest\DSM\DSMDAL\obj\Debug\DSMDAL.dll
 E:\WorkCode\DSMTest\DSM\DSMDAL\obj\Debug\DSMDAL.pdb
+C:\Users\Hao\Desktop\test\DSM\DSMDAL\bin\Debug\DSMDAL.dll
+C:\Users\Hao\Desktop\test\DSM\DSMDAL\bin\Debug\DSMDAL.pdb
+C:\Users\Hao\Desktop\test\DSM\DSMDAL\obj\Debug\DSMDAL.csprojResolveAssemblyReference.cache
+C:\Users\Hao\Desktop\test\DSM\DSMDAL\obj\Debug\DSMDAL.dll
+C:\Users\Hao\Desktop\test\DSM\DSMDAL\obj\Debug\DSMDAL.pdb
