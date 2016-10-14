@@ -9,9 +9,6 @@ E:\WorkCode\DSMTest\DSM\DSM\obj\x86\Debug\DSMUI.pdb
 C:\Users\Hao\Desktop\test\DSM\DSM\bin\Debug\DSMUI.exe.config
 C:\Users\Hao\Desktop\test\DSM\DSM\obj\x86\Debug\DSMUI.exe
 C:\Users\Hao\Desktop\test\DSM\DSM\obj\x86\Debug\DSMUI.pdb
-C:\Users\Hao\Desktop\test\DSM\DSM\bin\Debug\DSMUI.exe
-C:\Users\Hao\Desktop\test\DSM\DSM\bin\Debug\DSMUI.pdb
-C:\Users\Hao\Desktop\test\DSM\DSM\obj\x86\Debug\DSMUI.csprojResolveAssemblyReference.cache
-C:\Users\Hao\Desktop\test\DSM\DSM\obj\x86\Debug\DSMUI.Form1.resources
-C:\Users\Hao\Desktop\test\DSM\DSM\obj\x86\Debug\DSMUI.Properties.Resources.resources
-C:\Users\Hao\Desktop\test\DSM\DSM\obj\x86\Debug\DSMUI.csproj.GenerateResource.Cache
+E:\GIT WorkSpace\DSM\DSM\bin\Debug\DSMUI.exe.config
+E:\GIT WorkSpace\DSM\DSM\obj\x86\Debug\DSMUI.exe
+E:\GIT WorkSpace\DSM\DSM\obj\x86\Debug\DSMUI.pdb
