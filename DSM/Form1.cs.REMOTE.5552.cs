@@ -18,9 +18,7 @@ namespace DSMUI
     private void Form1_Load(object sender, EventArgs e)
     {
       //22222222
-        //20161013晚上添加。。。。。
       //lingquan1
-      //lingquan23
     }
   }
 }

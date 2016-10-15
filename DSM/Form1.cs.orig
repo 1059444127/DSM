@@ -18,9 +18,11 @@ namespace DSMUI
     private void Form1_Load(object sender, EventArgs e)
     {
       //22222222
+<<<<<<< HEAD
         //20161013晚上添加。。。。。
+=======
       //lingquan1
-      //lingquan23
+>>>>>>> 398f9293109f0f37c4b51b5121a352839df933a2
     }
   }
 }

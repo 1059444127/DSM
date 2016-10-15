@@ -2,3 +2,7 @@ E:\WorkCode\DSMTest\DSM\DSMModel\bin\Debug\DSMModel.dll
 E:\WorkCode\DSMTest\DSM\DSMModel\bin\Debug\DSMModel.pdb
 E:\WorkCode\DSMTest\DSM\DSMModel\obj\Debug\DSMModel.dll
 E:\WorkCode\DSMTest\DSM\DSMModel\obj\Debug\DSMModel.pdb
+C:\Users\Hao\Desktop\test\DSM\DSMModel\bin\Debug\DSMModel.dll
+C:\Users\Hao\Desktop\test\DSM\DSMModel\bin\Debug\DSMModel.pdb
+C:\Users\Hao\Desktop\test\DSM\DSMModel\obj\Debug\DSMModel.dll
+C:\Users\Hao\Desktop\test\DSM\DSMModel\obj\Debug\DSMModel.pdb

@@ -19,8 +19,6 @@ namespace DSMUI
     {
       //22222222
         //20161013晚上添加。。。。。
-      //lingquan1
-      //lingquan23
     }
   }
 }
